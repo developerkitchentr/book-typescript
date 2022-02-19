@@ -10,4 +10,4 @@
 
 -----
 
-[Başlangıç Sayfası](../readme.md)
+<a href="../README.md">Başlangıç Sayfası</a>
