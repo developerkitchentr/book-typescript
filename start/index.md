@@ -10,4 +10,4 @@
 
 -----
 
-[Başlangıç Sayfası](../readme.md)
+[Başlangıç Sayfası](/readme.md)
